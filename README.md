@@ -48,7 +48,7 @@ GIF created with GIPHY
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Nothing really, this was alot of fun.
 
 ## License
 
